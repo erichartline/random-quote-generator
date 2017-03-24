@@ -1,9 +1,9 @@
 # Random Quote Generator
 Gives the user a random Charles Bukowski quote on every click.
 
-Built using JavaScript, jQuery, HTML5, CSS3 and a little bit of Bootstrap.
+Built using HTML, CSS, JavaScript, jQuery and a little bit of Bootstrap.
 
-[Live Demo](https://wildlifehexagon.github.io/random-quote-generator/)
+Live Demo: [https://wildlifehexagon.github.io/random-quote-generator/](https://wildlifehexagon.github.io/random-quote-generator/)
 
 Features:
 * Can click "New Quote" to receive a random quote.
@@ -15,3 +15,5 @@ Future ideas:
 * Rewrite using vanilla JS
 * Maybe pull quotes from an API, or at least add more of them
 * Truncate tweets when they are over 140 characters
+
+Original freeCodeCamp challenge: [https://www.freecodecamp.com/challenges/build-a-random-quote-machine](https://www.freecodecamp.com/challenges/build-a-random-quote-machine)
